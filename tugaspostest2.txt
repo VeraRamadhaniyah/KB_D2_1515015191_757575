@@ -1,0 +1,26 @@
+TUGAS KECERDASAN BUATAN
+NAMA	: VERA RAMADHANIYAH
+NIM	: 1515015191
+
+1. Ubah bahasa Prolog berikut menjadi bahasa natural:
+	a. Dian adalah nama orang.
+	b. Atoz adalah sebuah merk mobil.
+	c. dian menyukai mobil dengan merk Atoz.
+	d. merk mobil atoz dijual.
+	e. X dapat membeliY jika
+				X adalah variabel pengganti orang,
+				Y adalah variabel pengganti mobil,
+				X menyukaisuka Y
+				Y dijual.
+	f. Apa yang siapapun suka?
+
+2. Ubah bahasa natural berikut menjadi bahasa Prolog:
+	a. hobi(Ricky,catur).
+	b. Orang(Embang,pemalas).
+	c. Orang(Yusida,vegetarian).
+	d. pandai(Kusdiar,gitar).
+	e. Milik(mobil, Sadek), warna (mobil, merah), merek(mobil, BMW).
+	f. Pemain(Awan, piano), berasal( Awan,pontianak),suku(Awan,jawa).
+	g. Dikatakan(orang,baik):-sifat(orang,penyayang),sifat(orang,dermawan).
+	h. Dikatakan(orang, pintar):-dapat(matematika,tinggi);dapat(ipa,tinggi);dapat(ips,tinggi).
+	i. Setiap(Orang,mati).
